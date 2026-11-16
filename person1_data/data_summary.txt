@@ -1,0 +1,11 @@
+
+MOVIE RECOMMENDATION PROJECT
+PERSON 1: DATASET SUMMARY
+
+Total ratings: 1000209
+Total users: 6040
+Total movies in metadata: 3883
+Movies rated: 3706
+Minimum rating: 1
+Maximum rating: 5
+Average rating: 3.58

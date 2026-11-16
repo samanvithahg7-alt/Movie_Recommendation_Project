@@ -1,0 +1,11 @@
+MovieID,Title,Genres,PredictedRating,NeighborsUsed
+2174,Beetlejuice (1988),Comedy|Fantasy,5.0,1
+2324,Life Is Beautiful (La Vita Ã¨ bella) (1997),Comedy|Drama,5.0,1
+3792,Duel in the Sun (1946),Western,5.0,1
+3789,"Pawnbroker, The (1965)",Drama,5.0,1
+3788,Blowup (1966),Drama|Mystery,5.0,1
+303,"Quick and the Dead, The (1995)",Action|Adventure|Western,5.0,1
+296,Pulp Fiction (1994),Crime|Drama,5.0,4
+293,"Professional, The (a.k.a. Leon: The Professional) (1994)",Crime|Drama|Romance|Thriller,5.0,2
+196,Species (1995),Horror|Sci-Fi,5.0,1
+1959,Out of Africa (1985),Drama|Romance,5.0,2
